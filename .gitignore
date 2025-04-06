@@ -1,8 +1,2 @@
-# 3D Model directories
-glb_files/
-stl_files/
-
-# Python-related files
-__pycache__/
-*.py[cod]
-*$py.class
+*.glb
+*.stl
